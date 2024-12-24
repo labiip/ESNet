@@ -1,4 +1,4 @@
-## 代码依赖
+## Code dependency
  
 - Linux 和 macOS 
 - Python 3.6+
