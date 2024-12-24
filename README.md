@@ -165,19 +165,6 @@ python demo/image_demo.py demo/test.tif（推理图片的具体路径） work_di
 
 ```
 
-## 若想使用已有环境进行推理测试，可按照下步骤
-
-1. 登录服务器账户 
-account: lixiuyu   passwd:123
-
-2. 激活环境
-source activate mmdetection
-
-3. 切换目录
-cd /home/lixiuyu/mmdetection-master1/
-
-4. 单张图片推理
-python demo/image_demo.py demo/test.tif work_dirs/esnet/mask_rcnn_r101_fpn_2x_coco.py /TEST/xiuyu.li/esnet/epoch_40.pth
 
 
 
